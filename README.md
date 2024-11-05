@@ -59,5 +59,5 @@ mvn package
 ```bash
 mvn spring-boot:run
 ```
-can see the project on the port: http://localhost:8080/movies or /showtimes
+can see the project on the port: http://localhost:8080/movies , /showtimes or (http://localhost:8081/movies , /showtimes Alternatively )
 

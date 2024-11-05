@@ -1,8 +1,6 @@
 # Cinema-Booking-App-Back-end
 Cinema Booking App is a Spring Boot and Maven-based backend project for managing movie bookings. It provides RESTful endpoints for creating, reading, updating, and deleting movies and bookings, utilizing a FakeDB for in-memory data storage. Built with Java, it's designed for efficient integration with frontend applications.
 
-# Cinema Booking App - Backend
-
 This project is a Spring Boot-based backend application for a Cinema Booking system. It provides RESTful APIs for managing cinema bookings and runs in a Docker container. This README provides steps for setting up the development environment, building, and deploying the application.
 
 ## Table of Contents
